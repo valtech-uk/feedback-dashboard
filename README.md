@@ -3,6 +3,8 @@ Fork of GOV.‌UK prototype kit including page to display feedback on screen fro
 
 ## Requirements
 
+* A Google sheet with your feedback in it
+* A Google API key created
 * Basic knowledge of HTML, CSS and JS
 * node.js - version 10.x.x
 
